@@ -1,0 +1,13 @@
+# Python virtual environments
+.venv/
+venv/
+*/.venv/
+*/venv/
+
+# Common Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.ipynb_checkpoints/
